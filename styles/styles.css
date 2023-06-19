@@ -6,7 +6,7 @@
     transition: all 0.5s;
 }
 body{
-    background-color: white;
+    background-color: lightgrey;
     overflow-x: hidden;
     font-family: 'Itim', cursive;
 }
@@ -42,7 +42,7 @@ header .logo img {
 nav a{
     display: flex;
     justify-content: center;
-    background-color: dimgrey;
+    background-color: white;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
