@@ -6,7 +6,7 @@
     transition: all 0.5s;
 }
 body{
-    background-color: lightgrey;
+    background-color: navajowhite;
     overflow-x: hidden;
     font-family: 'Itim', cursive;
 }
@@ -18,7 +18,7 @@ header {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    background-color: black;
+    background-color: dimgrey;
     font-family: 'Sedgwick Ave Display', cursive;
 }
 header .logo{
